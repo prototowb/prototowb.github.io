@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2020-02-21-Day-1-of-100-Days-of-Code"
-date: > date -r ~/.bashrc +'%Y-%m-%d %H:%M:%S %z'
+date: 2020-02-22 23:50:45 +0000
 categories: 100-Days-of-Code challenge
 ---
 
