@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2020-02-21-Day-1-of-100-Days-of-Code"
-date: 2020-02-21 23:50:45 +0000
+date: {{ page.last-modified-date | date: '%B %d, %Y' }} 23:50:45 +0000
 categories: 100-Days-of-Code challenge
 ---
 
