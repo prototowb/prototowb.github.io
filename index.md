@@ -10,7 +10,7 @@ I'm thrilled to welcome you on my first Blog, that has just started as Log for t
 <br>
 now without further ado~ i present you my 
 <br>
- ```                                                   
+ ```javascript                                                   
  _____ _       _ _                    __            
 |     | |_ ___| | |___ ___ ___ ___   |  |   ___ ___ 
 |   --|   | .'| | | -_|   | . | -_|  |  |__| . | . |
