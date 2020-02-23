@@ -4,6 +4,15 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# prototowb.github.io
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm thrilled to welcome you on my first Blog, that has just started as Log for the #100DaysOfCode challenge! I look forward to share bunch of exciting projects with you (for me at least). I'd love to hear from you when you're just starting out lerning to code or are a knowledgable advanced javascript programmer, who is interested in a collaboration on some project. Even Brainstorming for Ideas would be nice :-)
+<br>
+now without further ado~ i present you my 
+<br>
+                                                    
+ _____ _       _ _                    __            
+|     | |_ ___| | |___ ___ ___ ___   |  |   ___ ___ 
+|   --|   | .'| | | -_|   | . | -_|  |  |__| . | . |
+|_____|_|_|__,|_|_|___|_|_|_  |___|  |_____|___|_  |
+                          |___|                |___|
