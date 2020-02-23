@@ -8,15 +8,15 @@ categories: 100-Days-of-Code challenge
 # Day-1-of-100-Days-of-Code
 ![Image](https://i.ytimg.com/vi/2MsN8gpT6jY/maxresdefault.jpg)
 [https://pages.github.com](https://pages.github.com)
-
+<br/>
 
 **Todays Progress**
 I finally managed to put my GitHub Pages site up (just need to implement a nav). With all the prep work, I guess I can call it Day1 of #100daysOfCode
-
+<br/>
 
 **Link to Project**
 [here](https//prototowb.github.io)
-
+<br/>
 
 **Link to Tweet**
 [here](https://twitter.com/prototowb/status/1230990568894930954)
