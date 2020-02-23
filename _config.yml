@@ -1,4 +1,8 @@
 # Example Site settings
+title: 'prototowb.github.io'
+description: "Personal Repo Site"
+baseurl: "/jekyll-theme-console"
+url: "https://prototowb.github.io"
 
 #google_analytics: UA-NNNNNNNN-N
 
