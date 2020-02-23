@@ -7,7 +7,7 @@ categories: 100-Days-of-Code challenge
 
 # Day 2 of #100DaysOfCode
 ![Image](https://about.udemy.com/wp-content/uploads/2016/07/about-default.png)
-[The Modern Javascript Bootcamp Course](2020)(https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+[The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 <br/>
 
 **Todays Progress**
