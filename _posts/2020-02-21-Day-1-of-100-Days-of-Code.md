@@ -2,21 +2,18 @@
 layout: post
 title: "2020-02-21-Day-1-of-100-Days-of-Code"
 date: 2020-02-21 23:50:45 +0000
-categories: CATEGORY-1 CATEGORY-2
+categories: 100-Days-of-Code challenge
 ---
 
-
 # Header 1
-## Header 2
-### Header 3
-#### Header 4
+![Image](https://i.ytimg.com/vi/2MsN8gpT6jY/maxresdefault.jpg)
+[Link](https://pages.github.com)
 
-- Bulleted
-- List
+- **Todays Progress**
+I finally managed to put my GitHub Pages site up (just need to implement a nav). With all the prep work, I guess I can call it Day1 of #100daysOfCode
 
-1. Numbered
-2. List
+- **Link to Project**
+[Link](https//prototowb.github.io)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://pages.github.com) and ![Image](https://i.ytimg.com/vi/2MsN8gpT6jY/maxresdefault.jpg)
+- **Link to Tweet**
+[Link](https://twitter.com/prototowb/status/1230990568894930954)
