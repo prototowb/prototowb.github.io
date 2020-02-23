@@ -5,9 +5,9 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - about.md
 
 #footer: 'follow me on <a href="https://twitter.com/prototowb">twitter</a>'
 
