@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "2020-02-22-100DaysOfCode-Day-3"
+title: "2020-02-23-100DaysOfCode-Day-3"
 date: 2020-02-22 23:50:45 +0000
 categories: 100-Days-of-Code challenge
 ---
 
 # Day 3 of #100DaysOfCode
-![Image](https://about.udemy.com/wp-content/uploads/2016/07/about-default.png)
-[The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+![Image](https://jekyllrb.com/img/jekyll-og.png)
+[Jekyll Docs](https://jekyllrb.com/docs/posts/)
 <br/>
 
 **Todays Progress**
-Day#2 - read a lot about Jekyll and templates, still not sure how to create a nav tho. Bought Colt Steele's JS udemy course and gathered ideas for side projects.
+Day#3 - after i finally managed to build a nav for [prototowb.github.io](http://prototowb.github.io), i read through the Jekyll Docs for info about structure, format and code to create blog posts. Also got to think about creating my personal .de-domain portfolio~ish site with the awesome CSS Grid as layout framework. OMG i'm so hyped for the Grid! :D
 <br/>
 
 **Link to Project**
@@ -19,5 +19,5 @@ Day#2 - read a lot about Jekyll and templates, still not sure how to create a na
 <br/>
 
 **Link to Tweet**
-[here](https://twitter.com/prototowb/status/1231351298940903429)
+[here](https://twitter.com/prototowb)
 
