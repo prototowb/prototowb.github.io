@@ -11,10 +11,12 @@ header_pages:
 
 footer: 'follow me on <a href="https://twitter.com/prototowb">twitter</a>'
 
-style: light # dark (default) or light
+style: dark # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
 
 markdown: kramdown
+
 plugins:
   - jekyll-seo-tag
+  
 remote_theme: b2a3e8/jekyll-theme-console
