@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-I am a self-taught Web Developer from North Rhine-Westphalia (Germany), with a whole lot of struggle in the background. Needed to switch perspectives due to worsening of my auto-immune disease, and am now open to remote work/job offers as i delve deeper into the topic of webDev! :-) 
+I am a self-taught Web Developer from North Rhine-Westphalia (Germany), with a whole lot of struggle in the background. Had to switch perspectives due to worsening of my auto-immune disease, and am now open to remote work/job offers as i delve deeper into the topic of webDev! :-) 
 
 ## What is the ProtoHub?
 
