@@ -10,4 +10,4 @@ I am a self-taught Web Developer from North Rhine-Westphalia (Germany), with a w
 
 ## What is the ProtoHub?
 
-Well, it actually startet as place for storing notes and stuff (on a separate discord server). Over time it evolved to the Idea of a Tech-Blog with the Discord Community as Synergie, and ist still in the making. I actually trying to lay a foundation by participating in the #100daysOfCode challenge.
+Well, it actually startet as place for storing notes and stuff (on a separate discord server). Over time it evolved to the Idea of a Tech-Blog with the Discord Community as Synergie, and is still in the making. I actually try to lay a foundation by participating in the #100daysOfCode challenge.
