@@ -5,7 +5,7 @@ date: 2020-02-21 23:50:45 +0000
 categories: 100-Days-of-Code challenge
 ---
 
-# Day-1-of-100-Days-of-Code
+# Day 1 of #100DaysOfCode
 ![Image](https://i.ytimg.com/vi/2MsN8gpT6jY/maxresdefault.jpg)
 [https://pages.github.com](https://pages.github.com)
 <br/>
