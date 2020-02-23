@@ -15,7 +15,7 @@ Day#3 - after i finally managed to build a nav for [prototowb.github.io](http://
 <br/>
 
 **Link to Project**
-[here](https//prototowb.github.io)
+[here](https://prototowb.github.io)
 <br/>
 
 **Link to Tweet**
