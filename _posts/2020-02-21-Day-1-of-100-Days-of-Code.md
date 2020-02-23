@@ -13,7 +13,7 @@ categories: 100-Days-of-Code challenge
 I finally managed to put my GitHub Pages site up (just need to implement a nav). With all the prep work, I guess I can call it Day1 of #100daysOfCode
 
 - **Link to Project**
-[Link](https//prototowb.github.io)
+[here](https//prototowb.github.io)
 
 - **Link to Tweet**
-[Link](https://twitter.com/prototowb/status/1230990568894930954)
+[here](https://twitter.com/prototowb/status/1230990568894930954)
