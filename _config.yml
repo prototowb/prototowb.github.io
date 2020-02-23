@@ -9,7 +9,7 @@ header_pages:
   - index.md
   - about.md
 
-#footer: 'follow me on <a href="https://twitter.com/prototowb">twitter</a>'
+footer: 'follow me on <a href="https://twitter.com/prototowb">twitter</a>'
 
 #style: dark # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
@@ -18,5 +18,3 @@ header_pages:
 
 #plugins:
 #  - jekyll-seo-tag
-  
-#remote_theme: b2a3e8/jekyll-theme-console
