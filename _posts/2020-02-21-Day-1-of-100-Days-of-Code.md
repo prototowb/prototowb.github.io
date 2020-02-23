@@ -15,7 +15,7 @@ I finally managed to put my GitHub Pages site up (just need to implement a nav).
 <br/>
 
 **Link to Project**
-[here](https//prototowb.github.io)
+[here](https://prototowb.github.io)
 <br/>
 
 **Link to Tweet**
