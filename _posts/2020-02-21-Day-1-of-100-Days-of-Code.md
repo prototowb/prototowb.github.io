@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2020-02-21-Day-1-of-100-Days-of-Code"
-date: {{ page.last-modified-date | date: '%B %d, %Y' }} 23:50:45 +0000
+date: > date -r ~/.bashrc +'%Y-%m-%d %H:%M:%S %z'
 categories: 100-Days-of-Code challenge
 ---
 
