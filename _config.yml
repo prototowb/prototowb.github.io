@@ -1,22 +1,22 @@
-title: 'prototowb.github.io'
-description: "Personal Repo Site"
-baseurl: "/jekyll-theme-console"
-url: "https://prototowb.github.io"
+#title: 'prototowb.github.io'
+#description: "Personal Repo Site"
+#baseurl: "/jekyll-theme-console"
+#url: "https://prototowb.github.io"
 
 #google_analytics: UA-NNNNNNNN-N
 
-header_pages:
-  - index.md
-  - about.md
+#header_pages:
+#  - index.md
+#  - about.md
 
-footer: 'follow me on <a href="https://twitter.com/prototowb">twitter</a>'
+#footer: 'follow me on <a href="https://twitter.com/prototowb">twitter</a>'
 
-style: dark # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
+#style: dark # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
 
-markdown: kramdown
+#markdown: kramdown
 
-plugins:
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-seo-tag
   
-remote_theme: b2a3e8/jekyll-theme-console
+#remote_theme: b2a3e8/jekyll-theme-console
