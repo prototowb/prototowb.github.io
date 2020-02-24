@@ -6,7 +6,7 @@ permalink: /
 
 # prototowb.github.io
 
-I'm thrilled to welcome you on my first Blog, that has just started as Log for the #100DaysOfCode challenge! I look forward to share bunch of exciting projects with you (for me at least). I'd love to hear from you when you're just starting out lerning to code or are a knowledgable advanced javascript programmer, who is interested in a collaboration on some project. Even Brainstorming for Ideas would be nice :-)
+I'm thrilled to welcome you on my first Blog, that has just started as Log for the #100DaysOfCode challenge! I look forward to share bunch of exciting projects with you (for me at least). I'd love to hear from you when you're just starting out learning to code or are a knowledgable advanced javascript programmer, who is interested in a collaboration on some project. Even brainstorming for Ideas would be nice :-)
 <br>
 now without further ado~ i present you my 
 <br>
