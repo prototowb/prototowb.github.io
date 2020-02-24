@@ -10,7 +10,7 @@ categories: 100-Days-of-Code challenge
 [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 <br/>
 
-**Todays Progress**
+**Today's Progress**
 Day#2 - read a lot about Jekyll and templates, still not sure how to create a nav tho. Bought Colt Steele's JS udemy course and gathered ideas for side projects.
 <br/>
 
