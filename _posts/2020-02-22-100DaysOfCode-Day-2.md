@@ -15,7 +15,7 @@ Day#2 - read a lot about Jekyll and templates, still not sure how to create a na
 <br/>
 
 **Link to Project**
-[here](https//prototowb.github.io)
+[here](https://prototowb.github.io)
 <br/>
 
 **Link to Tweet**
