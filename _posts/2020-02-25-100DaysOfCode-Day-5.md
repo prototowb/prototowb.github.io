@@ -12,7 +12,7 @@ categories: 100-Days-of-Code
 **Today's Progress**
 Jekyll once again, how the heck do tags work?! oof, i think this one will take it's time. 
 
-ANYWAY i started the Portfolio! \o/ but i rather should line up some awesome projects for the next days, so i have some conecnt rdy when it's finished :) suggestions? :S 
+ANYWAY i started the Portfolio! \o/ but i rather should line up some awesome projects for the next days, so i have some content rdy when it's finished :) suggestions? :S 
 <br/>
 
 **Link to Project**
