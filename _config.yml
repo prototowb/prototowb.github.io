@@ -3,7 +3,7 @@
 #baseurl: "/prototowb.github.io"
 #url: "https://prototowb.github.io"
 
-#google_analytics: UA-NNNNNNNN-N
+google_analytics: UA-138697145-2
 
 header_pages:
   - index.md
@@ -16,5 +16,5 @@ footer: 'Join the <a href="https://discord.gg/PrzPKmd">Discord</a> | follow me o
 
 #markdown: kramdown
 
-#plugins:
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag
