@@ -3,6 +3,7 @@ layout: post
 title: "2020-02-21-100DaysOfCode-Day-1"
 date: 2020-02-21 23:50:45 +0000
 categories: 100-Days-of-Code
+tags: [100DaysOfCode, GitHub]
 ---
 
 # Day 1 of #100DaysOfCode
