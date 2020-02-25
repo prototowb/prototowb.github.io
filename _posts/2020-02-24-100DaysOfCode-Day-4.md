@@ -2,7 +2,7 @@
 layout: post
 title: "2020-02-24-100DaysOfCode-Day-4"
 date: 2020-02-24 23:50:45 +0000
-categories: 100-Days-of-Code challenge
+categories: 100-Days-of-Code
 ---
 
 # Day 4 of #100DaysOfCode
