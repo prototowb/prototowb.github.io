@@ -6,7 +6,7 @@ categories: 100-Days-of-Code challenge
 ---
 
 # Day 4 of #100DaysOfCode
-![Image](https://drive.google.com/file/d/1S8aMEX_thITzfz-LeHmQygoagTrR8t-J/view?usp=sharing)
+![Image](https://i.imgur.com/pQTDjw5.jpg)
 [CodePen](https://codepen.io/prototowb/pen/yLNgqdQ)
 <br/>
 
