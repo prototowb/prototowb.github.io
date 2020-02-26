@@ -11,7 +11,7 @@ categories: 100-Days-of-Code
 <br/>
 
 **Today's Progress**
-Day#3 - after i finally managed to build a nav for [prototowb.github.io](http://prototowb.github.io), i read through the Jekyll Docs for info about structure, format and code to create blog posts. Also got to think about creating my personal .de-domain portfolio~ish site with the awesome CSS Grid as layout framework. OMG i'm so hyped for the Grid! :D
+Day#3 - after i finally managed to build a nav for [prototowb.github.io](http://prototowb.github.io), i read through the Jekyll Docs for info about structure, format and code to create blog posts. Also got to think about creating my portfolio site with the awesome CSS Grid as layout framework. OMG i'm so hyped for the Grid! :D
 <br/>
 
 **Link to Project**
