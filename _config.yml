@@ -8,7 +8,7 @@ google_analytics: UA-138697145-2
 header_pages:
   - index.md
   - about.md
-  - '/blog/'
+  - '/blog/index.html'
 
 footer: 'Join the <a href="https://discord.gg/PrzPKmd">Discord</a> | follow me on <a href="https://twitter.com/prototowb">twitter</a>'
 
