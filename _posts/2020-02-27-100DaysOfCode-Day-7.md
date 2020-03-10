@@ -6,7 +6,7 @@ categories: 100-Days-of-Code
 ---
 
 # Day 7 of #100DaysOfCode
-![Image](https://tobiasrauer.de/portfolio_images/portfolio/portfolio-02.jpg)
+![Image](https://tobiasrauer.de/images/portfolio/portfolio-02.jpg)
 <br/>
 
 **Today's Progress**
