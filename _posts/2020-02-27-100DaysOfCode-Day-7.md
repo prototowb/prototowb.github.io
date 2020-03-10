@@ -10,7 +10,7 @@ categories: 100-Days-of-Code
 <br/>
 
 **Today's Progress**
- Aaaand i'm done. not finished, but done. 😂 the picture above is my Rig that helped me coding my portfolio today, yay! this teached me that i still need some CSS Grid tutorials. Soo looks like it will be cssgrid.io or anything the next days.  
+ Aaaand i'm done. not finished, but done. 😂 the picture above is my Rig that helped me coding my portfolio today, yay! this taught me that i still need some CSS Grid tutorials. Soo looks like it will be cssgrid.io or something the next days.  
 <br/>
 
 **Link to Project**
