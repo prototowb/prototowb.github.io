@@ -16,7 +16,7 @@ There was my Pi3 failing to be reached 'from outside', the Vodafone "EasyBox" ma
 <br/>
 so i finally decided to just pull them from Git again, somehow leaked the Bot Token in the process and had to write a new ".env" which i had slight trouble with copying it over to the Pi via scp and ftp. Oh did i mention that the Vodafone "EasyBox" messed up my WiFi and the Pi thinks it has no W-Wlan interface installed, but it has have w-lan internet connection nonetheless :'D
 <br/>
-So somehow i couldn't access the workdirs of the bots via ftp/scp. I was only able to place the .env in my users home directory, so i had to move it from there. Well, you know that Files starting with a "." are invisible, son't you? :) 
+So somehow i couldn't access the workdirs of the bots via ftp/scp. I was only able to place the .env in my users home directory, so i had to move it from there. Well, you know that Files starting with a "." are invisible, don't you? :) 
 <br/>
 after i got that, i decided i would replace the latest node 'full' package in my Docker File, ..um.. "Dockerfile", with the node:slim version. Still not quite sure about the exact differences but everything runs fine.. and is about 4-500mb smaller now :> 
 <br/>
