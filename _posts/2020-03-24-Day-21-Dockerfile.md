@@ -21,18 +21,26 @@ So somehow i couldn't access the workdirs of the bots via ftp/scp. I was only ab
 after i got that, i decided i would replace the full node 'latest' package in my Docker File, ..um.. "Dockerfile", with the node:slim version. Still not quite sure about the exact differences but everything runs fine.. and is about 4-500mb smaller now :> 
 <br/>
 <br/>
-Here it is:<br/><br/>
-FROM node:slim<br/>
+Here it is:
 
-WORKDIR /main<br/>
+
+
+FROM node:slim
+
+
+WORKDIR /main
+
 
 COPY package.json /app
 
-RUN npm install<br/>
+RUN npm install
 
-COPY . /main<br/>
 
-CMD ["npm", "start"]<br/><br/>
+COPY . /main
+
+
+CMD ["npm", "start"]
+
 
 
 Anyone ever written a Dockerfile? Remember the contents or need to look 'em up? I'd like to have a peek :D
