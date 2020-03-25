@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020-02-24-Day-4-JS-Slider"
+title: "Day-4-JS-Slider"
 date: 2020-02-24 23:50:45 +0000
 categories: 100-Days-of-Code
 ---
