@@ -38,7 +38,7 @@ WORKDIR /main<br/><br/>
 
 COPY package.json /app<br/>
 
-RUN npm install<br/>
+RUN npm install<br/><br/>
 
 
 COPY . /main<br/><br/>
