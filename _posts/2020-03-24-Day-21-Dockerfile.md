@@ -27,6 +27,7 @@ FROM node:slim<br/>
 WORKDIR /main<br/>
 
 COPY package.json /app
+
 RUN npm install<br/>
 
 COPY . /main<br/>
