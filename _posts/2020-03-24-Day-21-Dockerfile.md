@@ -26,27 +26,31 @@ after i got that, i decided i would replace the full node 'latest' package in my
 <br/>
 <br/>
 
-Here it is:<br/>
-
+Here it is:
+<br/><br/>
 
 ```
-FROM node:slim<br/>
+FROM node:slim
 
 
-WORKDIR /main<br/>
+
+WORKDIR /main
+
 
 
 COPY package.json /app
 
-RUN npm install<br/>
+RUN npm install
 
 
-COPY . /main<br/>
+
+COPY . /main
+
 
 
 CMD ["npm", "start"]
 ```
-<br/>
+<br/><br/>
 
 Anyone ever written a Dockerfile? Remember the contents or need to look 'em up? I'd like to have a peek :D
 <br/>
