@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2020-03-10-Day-13-API-Research"
-date: 2020-03-9 21:42:45 +0000
+date: 2020-03-10 21:42:45 +0000
 categories: 100-Days-of-Code
 ---
 
