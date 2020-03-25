@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020-02-28-100DaysOfCode-Day-8"
+title: "2020-02-28-Day-8-Research"
 date: 2020-02-28 21:42:45 +0000
 categories: 100-Days-of-Code
 ---
