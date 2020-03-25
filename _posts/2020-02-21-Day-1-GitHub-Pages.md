@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020-02-21-Day-1-GitHub-Pages"
+title: "Day-1-GitHub-Pages"
 date: 2020-02-21 23:50:45 +0000
 categories: 100-Days-of-Code
 tags: [100DaysOfCode, GitHub]
