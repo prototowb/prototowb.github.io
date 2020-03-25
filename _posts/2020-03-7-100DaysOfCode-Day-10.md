@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2020-02-28-100DaysOfCode-Day-10"
-date: 2020-02-28 21:42:45 +0000
+title: "2020-03-7-100DaysOfCode-Day-10"
+date: 2020-03-7 21:42:45 +0000
 categories: 100-Days-of-Code
 ---
 
