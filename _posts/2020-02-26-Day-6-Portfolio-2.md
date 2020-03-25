@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020-02-26-Portfolio-2"
+title: "2020-02-26-Day-6-Portfolio-2"
 date: 2020-02-26 22:30:45 +0000
 categories: 100-Days-of-Code
 ---
