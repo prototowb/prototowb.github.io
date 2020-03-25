@@ -10,11 +10,11 @@ categories: 100-Days-of-Code
 <br/>
 
 **Today's Progress**
-Day 21 - After a long gamble on figuring out what is wrong with the FCC curriculum, the hardware from my new ISP arrived. Set it up and immediatly got a hand full of issues to fix..
+Day 21 - After a long gamble on figuring out what is wrong with the FCC curriculum, the hardware from my new ISP arrived. Set it up and immediately got a hand full of issues to fix..
 <br/>
-There was my Pi3 failing to be reached 'from outside', the Vodafone "EasyBox" making me go nuts, then the bots i hosten on the Pi which Directories cinflicted with their Git repositories.. ugh~
+There was my Pi3 failing to be reached 'from outside', the Vodafone "EasyBox" making me go nuts, then the bots i hosten on the Pi which Directories conflicted with their Git repositories.. ugh~
 <br/>
-so i finally decided to just pull them from Git again, somehow leaked the Bot Token in the process and had to write a new ".env" which i had slight trouble with copying it over to the Pi via scp and ftp. Oh did i mention that the Vodafone "EasyBox" messed up my WiFi and the Pi thinks it is no W-Wlan interface installed, but ih have w-lan internet connection nonetheless :'D
+so i finally decided to just pull them from Git again, somehow leaked the Bot Token in the process and had to write a new ".env" which i had slight trouble with copying it over to the Pi via scp and ftp. Oh did i mention that the Vodafone "EasyBox" messed up my WiFi and the Pi thinks it has no W-Wlan interface installed, but it has have w-lan internet connection nonetheless :'D
 <br/>
 So somehow i couldn't access the workdirs of the bots via ftp/scp. I was only able to place the .env in my users home directory, so i had to move it from there. Well, you know that Files starting with a "." are invisible, son't you? :) 
 <br/>
