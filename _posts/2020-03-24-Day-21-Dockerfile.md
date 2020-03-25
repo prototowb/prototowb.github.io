@@ -26,8 +26,8 @@ after i got that, i decided i would replace the full node 'latest' package in my
 <br/>
 <br/>
 
-Here it is:
-<br/><br/>
+# Here it is:
+<br/><br/><br/><br/>
 
 ```
 FROM node:slim
@@ -46,7 +46,7 @@ COPY . /main
 
 CMD ["npm", "start"]
 ```
-<br/><br/>
+<br/><br/><br/>
 
 Anyone ever written a Dockerfile? Remember the contents or need to look 'em up? I'd like to have a peek :D
 <br/>
