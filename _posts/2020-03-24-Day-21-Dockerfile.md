@@ -26,25 +26,25 @@ after i got that, i decided i would replace the full node 'latest' package in my
 <br/>
 <br/>
 
-Here it is:<br/>
+Here it is:<br/><br/><br/>
 
 
 
-FROM node:slim
+FROM node:slim<br/><br/>
 
 
-WORKDIR /main
+WORKDIR /main<br/><br/>
 
 
-COPY package.json /app
+COPY package.json /app<br/>
 
-RUN npm install
-
-
-COPY . /main
+RUN npm install<br/>
 
 
-CMD ["npm", "start"]<br/>
+COPY . /main<br/><br/>
+
+
+CMD ["npm", "start"]<br/><br/><br/>
 
 
 
