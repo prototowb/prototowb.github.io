@@ -22,7 +22,7 @@ after i got that, i decided i would replace the full node 'latest' package in my
 <br/>
 <br/>
 
-Any one ever written a Dockerfile? Remember the contents or need to look 'em up? I'd like to have a peek :D
+Anyone ever written a Dockerfile? Remember the contents or need to look 'em up? I'd like to have a peek :D
 
 **Link to Project**
 []()
