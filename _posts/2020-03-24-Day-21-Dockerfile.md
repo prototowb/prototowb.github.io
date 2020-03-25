@@ -30,23 +30,23 @@ Here it is:<br/>
 
 
 ```
-FROM node:slim
+FROM node:slim<br/>
 
 
-WORKDIR /main
+WORKDIR /main<br/>
 
 
-COPY package.json /app<br/>
+COPY package.json /app
 
-RUN npm install
-
-
-COPY . /main
+RUN npm install<br/>
 
 
-CMD ["npm", "start"]<br/>
+COPY . /main<br/>
+
+
+CMD ["npm", "start"]
 ```
-
+<br/>
 
 Anyone ever written a Dockerfile? Remember the contents or need to look 'em up? I'd like to have a peek :D
 <br/>
