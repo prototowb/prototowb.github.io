@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day-17-FCC-WebDev-8"
+title: "Day-18-FCC-WebDev-8"
 date: 2020-03-16 21:42:45 +0000
 categories: 100-Days-of-Code
 ---
