@@ -6,7 +6,7 @@ categories: 100-Days-of-Code
 ---
 
 # Day 12 of #100DaysOfCode
-![Image](https://cdn.freecodecamp.org/platform/universal/fcc-twitter-1120X600-social-green.png)
+![Image](https://about.udemy.com/wp-content/uploads/2016/07/about-default.png)
 <br/>
 
 **Today's Progress**
